@@ -1,0 +1,12 @@
+{
+        "Version": "2012-10-17",
+        "Statement": [
+          {
+            "Sid": "Stmt1624529727082",
+            "Action": "sqs:*",
+            "Effect": "Allow",
+            "Resource": "*"
+          }
+        ]
+      }
+    
